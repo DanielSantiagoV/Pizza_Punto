@@ -1,0 +1,202 @@
+[
+  {
+    "nombre": "Mozzarella",
+    "tipo": "queso",
+    "stock": 50,
+    "_id": "mfswfn4njlmbd0atqr9",
+    "createdAt": "2025-09-20T23:27:55.607Z",
+    "updatedAt": "2025-09-20T23:27:55.609Z"
+  },
+  {
+    "nombre": "Parmesano",
+    "tipo": "queso",
+    "stock": 30,
+    "_id": "mfswfn4rqo2qk67mxs9",
+    "createdAt": "2025-09-20T23:27:55.611Z",
+    "updatedAt": "2025-09-20T23:27:55.612Z"
+  },
+  {
+    "nombre": "Cheddar",
+    "tipo": "queso",
+    "stock": 25,
+    "_id": "mfswfn4wuvrfvocq7d",
+    "createdAt": "2025-09-20T23:27:55.616Z",
+    "updatedAt": "2025-09-20T23:27:55.616Z"
+  },
+  {
+    "nombre": "Gorgonzola",
+    "tipo": "queso",
+    "stock": 15,
+    "_id": "mfswfn4ylhzwru4scc",
+    "createdAt": "2025-09-20T23:27:55.618Z",
+    "updatedAt": "2025-09-20T23:27:55.618Z"
+  },
+  {
+    "nombre": "Salsa de Tomate",
+    "tipo": "salsa",
+    "stock": 40,
+    "_id": "mfswfn4ziqsubwu3pbh",
+    "createdAt": "2025-09-20T23:27:55.619Z",
+    "updatedAt": "2025-09-20T23:27:55.619Z"
+  },
+  {
+    "nombre": "Salsa Pesto",
+    "tipo": "salsa",
+    "stock": 20,
+    "_id": "mfswfn50ufzvlqolq9",
+    "createdAt": "2025-09-20T23:27:55.620Z",
+    "updatedAt": "2025-09-20T23:27:55.620Z"
+  },
+  {
+    "nombre": "Salsa BBQ",
+    "tipo": "salsa",
+    "stock": 15,
+    "_id": "mfswfn5003z532rs0mz3",
+    "createdAt": "2025-09-20T23:27:55.620Z",
+    "updatedAt": "2025-09-20T23:27:55.620Z"
+  },
+  {
+    "nombre": "Salsa Alfredo",
+    "tipo": "salsa",
+    "stock": 18,
+    "_id": "mfswfn52kid0qp4cw7",
+    "createdAt": "2025-09-20T23:27:55.622Z",
+    "updatedAt": "2025-09-20T23:27:55.622Z"
+  },
+  {
+    "nombre": "Pepperoni",
+    "tipo": "topping",
+    "stock": 35,
+    "_id": "mfswfn53wm5es576dqi",
+    "createdAt": "2025-09-20T23:27:55.624Z",
+    "updatedAt": "2025-09-20T23:27:55.624Z"
+  },
+  {
+    "nombre": "Jamón",
+    "tipo": "topping",
+    "stock": 30,
+    "_id": "mfswfn55ph2qgv1had",
+    "createdAt": "2025-09-20T23:27:55.625Z",
+    "updatedAt": "2025-09-20T23:27:55.625Z"
+  },
+  {
+    "nombre": "Champiñones",
+    "tipo": "topping",
+    "stock": 25,
+    "_id": "mfswfn59zu414llwpz",
+    "createdAt": "2025-09-20T23:27:55.629Z",
+    "updatedAt": "2025-09-20T23:27:55.629Z"
+  },
+  {
+    "nombre": "Aceitunas",
+    "tipo": "topping",
+    "stock": 20,
+    "_id": "mfswfn5b7zem76lyd6q",
+    "createdAt": "2025-09-20T23:27:55.631Z",
+    "updatedAt": "2025-09-20T23:27:55.631Z"
+  },
+  {
+    "nombre": "Pimientos",
+    "tipo": "topping",
+    "stock": 22,
+    "_id": "mfswfn5fmlejges6hal",
+    "createdAt": "2025-09-20T23:27:55.635Z",
+    "updatedAt": "2025-09-20T23:27:55.635Z"
+  },
+  {
+    "nombre": "Cebolla",
+    "tipo": "topping",
+    "stock": 28,
+    "_id": "mfswfn5gp9wuh8ugb7",
+    "createdAt": "2025-09-20T23:27:55.636Z",
+    "updatedAt": "2025-09-20T23:27:55.636Z"
+  },
+  {
+    "nombre": "Tomate",
+    "tipo": "topping",
+    "stock": 32,
+    "_id": "mfswfn5iif86kjnlek",
+    "createdAt": "2025-09-20T23:27:55.638Z",
+    "updatedAt": "2025-09-20T23:27:55.638Z"
+  },
+  {
+    "nombre": "Albahaca",
+    "tipo": "topping",
+    "stock": 15,
+    "_id": "mfswfn5jpccvx8b6f0n",
+    "createdAt": "2025-09-20T23:27:55.639Z",
+    "updatedAt": "2025-09-20T23:27:55.639Z"
+  },
+  {
+    "nombre": "Espinacas",
+    "tipo": "vegetal",
+    "stock": 18,
+    "_id": "mfswfn5kmqe8zn3uey",
+    "createdAt": "2025-09-20T23:27:55.640Z",
+    "updatedAt": "2025-09-20T23:27:55.640Z"
+  },
+  {
+    "nombre": "Rúcula",
+    "tipo": "vegetal",
+    "stock": 213,
+    "_id": "mfswfn62dgaqkjevn1",
+    "createdAt": "2025-09-20T23:27:55.659Z",
+    "updatedAt": "2025-09-20T23:29:58.239Z"
+  },
+  {
+    "nombre": "Brócoli",
+    "tipo": "vegetal",
+    "stock": 20,
+    "_id": "mfswfn687la9ttilkyf",
+    "createdAt": "2025-09-20T23:27:55.664Z",
+    "updatedAt": "2025-09-20T23:27:55.664Z"
+  },
+  {
+    "nombre": "Pollo",
+    "tipo": "carne",
+    "stock": 25,
+    "_id": "mfswfn69914mokzuj8p",
+    "createdAt": "2025-09-20T23:27:55.665Z",
+    "updatedAt": "2025-09-20T23:27:55.665Z"
+  },
+  {
+    "nombre": "Salchicha",
+    "tipo": "carne",
+    "stock": 20,
+    "_id": "mfswfn6b69wnonez1yg",
+    "createdAt": "2025-09-20T23:27:55.667Z",
+    "updatedAt": "2025-09-20T23:27:55.667Z"
+  },
+  {
+    "nombre": "Bacon",
+    "tipo": "carne",
+    "stock": 18,
+    "_id": "mfswfn6edixgro4zaho",
+    "createdAt": "2025-09-20T23:27:55.670Z",
+    "updatedAt": "2025-09-20T23:27:55.670Z"
+  },
+  {
+    "nombre": "Masa Tradicional",
+    "tipo": "masa",
+    "stock": 100,
+    "_id": "mfswfn6fyrv3mqx2i8",
+    "createdAt": "2025-09-20T23:27:55.671Z",
+    "updatedAt": "2025-09-20T23:27:55.671Z"
+  },
+  {
+    "nombre": "Masa Integral",
+    "tipo": "masa",
+    "stock": 50,
+    "_id": "mfswfn6ghmkeqws1hgo",
+    "createdAt": "2025-09-20T23:27:55.672Z",
+    "updatedAt": "2025-09-20T23:27:55.672Z"
+  },
+  {
+    "nombre": "Masa Sin Gluten",
+    "tipo": "masa",
+    "stock": 30,
+    "_id": "mfswfn6ixnpvol84nta",
+    "createdAt": "2025-09-20T23:27:55.674Z",
+    "updatedAt": "2025-09-20T23:27:55.674Z"
+  }
+]

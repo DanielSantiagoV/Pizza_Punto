@@ -1,0 +1,74 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "telefono": "555-0101",
+    "direccion": "Calle Principal 123",
+    "_id": "mfswfn73np7g7mp6lc",
+    "createdAt": "2025-09-20T23:27:55.695Z",
+    "updatedAt": "2025-09-20T23:27:55.695Z"
+  },
+  {
+    "nombre": "María García",
+    "telefono": "555-0102",
+    "direccion": "Avenida Central 456",
+    "_id": "mfswfn731pjut8tt7y",
+    "createdAt": "2025-09-20T23:27:55.695Z",
+    "updatedAt": "2025-09-20T23:27:55.695Z"
+  },
+  {
+    "nombre": "Carlos López",
+    "telefono": "555-0103",
+    "direccion": "Plaza Mayor 789",
+    "_id": "mfswfn74q76xbcjx3xb",
+    "createdAt": "2025-09-20T23:27:55.696Z",
+    "updatedAt": "2025-09-20T23:27:55.696Z"
+  },
+  {
+    "nombre": "Ana Martínez",
+    "telefono": "555-0104",
+    "direccion": "Calle Secundaria 321",
+    "_id": "mfswfn75wr5221ung2",
+    "createdAt": "2025-09-20T23:27:55.697Z",
+    "updatedAt": "2025-09-20T23:27:55.697Z"
+  },
+  {
+    "nombre": "Luis Rodríguez",
+    "telefono": "555-0105",
+    "direccion": "Boulevard Norte 654",
+    "_id": "mfswfn76khrorqke9bd",
+    "createdAt": "2025-09-20T23:27:55.698Z",
+    "updatedAt": "2025-09-20T23:27:55.698Z"
+  },
+  {
+    "nombre": "Carmen Sánchez",
+    "telefono": "555-0106",
+    "direccion": "Calle Sur 987",
+    "_id": "mfswfn77dqilva2qsy",
+    "createdAt": "2025-09-20T23:27:55.699Z",
+    "updatedAt": "2025-09-20T23:27:55.699Z"
+  },
+  {
+    "nombre": "Pedro González",
+    "telefono": "555-0107",
+    "direccion": "Avenida Este 147",
+    "_id": "mfswfn78lt41pdbkdps",
+    "createdAt": "2025-09-20T23:27:55.700Z",
+    "updatedAt": "2025-09-20T23:27:55.700Z"
+  },
+  {
+    "nombre": "Laura Fernández",
+    "telefono": "555-0108",
+    "direccion": "Calle Oeste 258",
+    "_id": "mfswfn784ahzexfzepc",
+    "createdAt": "2025-09-20T23:27:55.700Z",
+    "updatedAt": "2025-09-20T23:27:55.700Z"
+  },
+  {
+    "nombre": "Daniel",
+    "telefono": "3156990555",
+    "direccion": "asdasdsad",
+    "_id": "mfswgwvvcyc1dno9qjb",
+    "createdAt": "2025-09-20T23:28:54.907Z",
+    "updatedAt": "2025-09-20T23:28:54.908Z"
+  }
+]

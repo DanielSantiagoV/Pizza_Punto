@@ -1,0 +1,262 @@
+[
+  {
+    "nombre": "Margherita",
+    "categoria": "tradicional",
+    "precio": 12.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6fyrv3mqx2i8",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4ziqsubwu3pbh",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4njlmbd0atqr9",
+        "cantidad": 2
+      },
+      {
+        "ingredienteId": "mfswfn5jpccvx8b6f0n",
+        "cantidad": 1
+      }
+    ],
+    "_id": "mfswfn6ndm734h73l08",
+    "createdAt": "2025-09-20T23:27:55.679Z",
+    "updatedAt": "2025-09-20T23:27:55.679Z"
+  },
+  {
+    "nombre": "Pepperoni",
+    "categoria": "tradicional",
+    "precio": 14.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6fyrv3mqx2i8",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4ziqsubwu3pbh",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4njlmbd0atqr9",
+        "cantidad": 2
+      },
+      {
+        "ingredienteId": "mfswfn53wm5es576dqi",
+        "cantidad": 2
+      }
+    ],
+    "_id": "mfswfn6n6wr6k7g9j3o",
+    "createdAt": "2025-09-20T23:27:55.680Z",
+    "updatedAt": "2025-09-20T23:27:55.680Z"
+  },
+  {
+    "nombre": "Hawaiana",
+    "categoria": "especial",
+    "precio": 16.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6fyrv3mqx2i8",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4ziqsubwu3pbh",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4njlmbd0atqr9",
+        "cantidad": 2
+      },
+      {
+        "ingredienteId": "mfswfn55ph2qgv1had",
+        "cantidad": 2
+      },
+      {
+        "ingredienteId": "mfswfn5iif86kjnlek",
+        "cantidad": 1
+      }
+    ],
+    "_id": "mfswfn6oxxjiosag8vk",
+    "createdAt": "2025-09-20T23:27:55.680Z",
+    "updatedAt": "2025-09-20T23:27:55.680Z"
+  },
+  {
+    "nombre": "Cuatro Quesos",
+    "categoria": "especial",
+    "precio": 17.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6fyrv3mqx2i8",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4ziqsubwu3pbh",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4njlmbd0atqr9",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4rqo2qk67mxs9",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4wuvrfvocq7d",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4ylhzwru4scc",
+        "cantidad": 1
+      }
+    ],
+    "_id": "mfswfn6p5zv3pug6fkk",
+    "createdAt": "2025-09-20T23:27:55.681Z",
+    "updatedAt": "2025-09-20T23:27:55.681Z"
+  },
+  {
+    "nombre": "Vegetariana",
+    "categoria": "vegana",
+    "precio": 15.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6ghmkeqws1hgo",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4ziqsubwu3pbh",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn59zu414llwpz",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5fmlejges6hal",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5gp9wuh8ugb7",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5iif86kjnlek",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5kmqe8zn3uey",
+        "cantidad": 1
+      }
+    ],
+    "_id": "mfswfn6qsogz7eii3k",
+    "createdAt": "2025-09-20T23:27:55.682Z",
+    "updatedAt": "2025-09-20T23:27:55.682Z"
+  },
+  {
+    "nombre": "BBQ Chicken",
+    "categoria": "especial",
+    "precio": 18.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6fyrv3mqx2i8",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5003z532rs0mz3",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4njlmbd0atqr9",
+        "cantidad": 2
+      },
+      {
+        "ingredienteId": "mfswfn69914mokzuj8p",
+        "cantidad": 2
+      },
+      {
+        "ingredienteId": "mfswfn5gp9wuh8ugb7",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn6edixgro4zaho",
+        "cantidad": 1
+      }
+    ],
+    "_id": "mfswfn6r28p7jqlui9q",
+    "createdAt": "2025-09-20T23:27:55.683Z",
+    "updatedAt": "2025-09-20T23:27:55.683Z"
+  },
+  {
+    "nombre": "Pesto Vegana",
+    "categoria": "vegana",
+    "precio": 16.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6ixnpvol84nta",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn50ufzvlqolq9",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5iif86kjnlek",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn62dgaqkjevn1",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn687la9ttilkyf",
+        "cantidad": 1
+      }
+    ],
+    "_id": "mfswfn6uht5lqoo11d",
+    "createdAt": "2025-09-20T23:27:55.686Z",
+    "updatedAt": "2025-09-20T23:27:55.686Z"
+  },
+  {
+    "nombre": "Suprema",
+    "categoria": "especial",
+    "precio": 19.99,
+    "ingredientes": [
+      {
+        "ingredienteId": "mfswfn6fyrv3mqx2i8",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4ziqsubwu3pbh",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn4njlmbd0atqr9",
+        "cantidad": 2
+      },
+      {
+        "ingredienteId": "mfswfn53wm5es576dqi",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn55ph2qgv1had",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn59zu414llwpz",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5fmlejges6hal",
+        "cantidad": 1
+      },
+      {
+        "ingredienteId": "mfswfn5gp9wuh8ugb7",
+        "cantidad": 1
+      }
+    ],
+    "_id": "mfswfn6ykcqlfw8zklk",
+    "createdAt": "2025-09-20T23:27:55.690Z",
+    "updatedAt": "2025-09-20T23:27:55.690Z"
+  }
+]

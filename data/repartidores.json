@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Miguel Torres",
+    "zona": "Centro",
+    "estado": "disponible",
+    "_id": "mfswfn7bmnup6m90i5o",
+    "createdAt": "2025-09-20T23:27:55.703Z",
+    "updatedAt": "2025-09-20T23:27:55.703Z"
+  },
+  {
+    "nombre": "Sofia Herrera",
+    "zona": "Norte",
+    "estado": "disponible",
+    "_id": "mfswfn7c3w3mimhq2ka",
+    "createdAt": "2025-09-20T23:27:55.704Z",
+    "updatedAt": "2025-09-20T23:27:55.704Z"
+  },
+  {
+    "nombre": "Diego Morales",
+    "zona": "Sur",
+    "estado": "disponible",
+    "_id": "mfswfn7d3us8laomkdj",
+    "createdAt": "2025-09-20T23:27:55.705Z",
+    "updatedAt": "2025-09-20T23:27:55.705Z"
+  },
+  {
+    "nombre": "Valentina Ruiz",
+    "zona": "Este",
+    "estado": "disponible",
+    "_id": "mfswfn7eg4awxnsk43h",
+    "createdAt": "2025-09-20T23:27:55.706Z",
+    "updatedAt": "2025-09-20T23:27:55.706Z"
+  },
+  {
+    "nombre": "Andrés Vargas",
+    "zona": "Oeste",
+    "estado": "disponible",
+    "_id": "mfswfn7fowpgb7tooz",
+    "createdAt": "2025-09-20T23:27:55.707Z",
+    "updatedAt": "2025-09-20T23:27:55.707Z"
+  },
+  {
+    "nombre": "Camila Jiménez",
+    "zona": "Centro",
+    "estado": "disponible",
+    "_id": "mfswfn7gz0j77c6vsz",
+    "createdAt": "2025-09-20T23:27:55.708Z",
+    "updatedAt": "2025-09-20T23:27:55.708Z"
+  }
+]
